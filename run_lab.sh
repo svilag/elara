@@ -9,5 +9,5 @@ docker run \
   --rm \
   -p ${PORT}:8888 \
   -v ${VOLUME}:/home/jovyan/work \
-  -e JUPYTER_ENABLE_LAB=yes \
+  -e DOCKER_STACKS_JUPYTER_CMD \
   --name ${NAME} elara
