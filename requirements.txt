@@ -9,7 +9,6 @@ geopy>=2.1.*
 googlemaps>=4.4.*
 lxml>=4.6.*
 missingno>=0.4.*
-mkdocs==1.3.0
 nbdime>=3.1.*
 nbgrader>=0.6.*
 openpyxl>=3.0.*
